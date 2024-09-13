@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Ec2WebApi/bin/Debug/net8.0
+/Ec2WebApi/.vs/Ec2WebApi/v17
+/Ec2WebApi/.vs/Ec2WebApi/FileContentIndex
+/Ec2WebApi/.vs/Ec2WebApi/DesignTimeBuild
+/.vs
+/Ec2WebApi/obj
